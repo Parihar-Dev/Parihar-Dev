@@ -57,8 +57,8 @@ This project showcases my understanding of **production-ready architecture**, **
 
 I’m actively looking for full-time backend or full-stack developer roles. Feel free to connect — especially if you’re from a company that values **clean code, system thinking**, and **initiative**.
 
-📧 rahulparihar.dev@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/rahul-parihar/)  
+📧 pariharr0203@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/pariharr0203/)  
 📦 [GitHub](https://github.com/Parihar-Dev)
 
 ---
