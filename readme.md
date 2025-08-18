@@ -29,12 +29,6 @@ Welcome to my GitHub! I'm a final-year Computer Science student with a deep pass
 
 ---
 
-## 🧠 What I’m Learning
-
-- Deepening backend performance skills with **JVM internals** and **system design** - Exploring advanced **React patterns**, concurrency in Java, and **cloud-native deployments**
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="center">
