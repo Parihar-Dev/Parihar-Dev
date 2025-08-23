@@ -43,7 +43,3 @@ Welcome to my GitHub! I'm a final-year Computer Science student with a deep pass
   </a>
 </p>
 
-
----
-
-_“Code is not just what a developer writes — it’s the clarity, architecture, and decisions behind it.”_
