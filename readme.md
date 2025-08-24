@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Rahul Parihar
 
-## 🚀 Full-Stack Developer | Frontend Specialist | Java Enthusiast
+## 🚀 Full-Stack Developer | Java Enthusiast
 
 Welcome to my GitHub! I'm a final-year Computer Science student with a deep passion for building **scalable, production-ready software** that solves real-world problems. I love working across the stack — from building RESTful APIs in **Node.js/Express** and managing data with **Prisma + MongoDB**, to crafting beautiful UIs with **React + TailwindCSS**.
 
