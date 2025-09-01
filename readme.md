@@ -1,7 +1,7 @@
 ![Header](./github-header.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Developer" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Developer" alt="Typing Banner" />
 </p>
 
 <p align="center">
