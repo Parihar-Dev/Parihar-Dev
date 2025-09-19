@@ -34,3 +34,12 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px" />
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parihar-Dev&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Rahul's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parihar-Dev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Parihar-Dev&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
